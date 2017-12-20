@@ -1,0 +1,30 @@
+叮叮，值此辞旧迎新之际祝你鸡年大吉，早生贵子！
+新年快乐～
+在吗
+<voipinvitemsg><roomid>0</roomid><key>0</key><status>4</status><invitetype>1</invitetype></voipinvitemsg><voipextinfo><recvtime>1485764513</recvtime></voipextinfo><voiplocalinfo><wordingtype>1</wordingtype><duration>0</duration></voiplocalinfo>
+丁
+待会怎么说 
+晶晶刚到家 说先睡会
+嘿嘿 晚上打麻将
+哦哦 
+你们啥时候能把事弄完
+这会在吃晚饭了
+哈哈
+在家吃吗
+晚上可以凑两桌 你也来喔
+在外边了
+大河坎吗
+汉中
+哦哦 那你们往回来走的时候 说一下
+<msg><emoji fromusername="xiaoding573988" tousername="wxid_9s5h2z5fckcs12" type="2" idbuffer="media:0_0" md5="bba4ca645708c8d34d1ab8ba8286e480" len="8084" productid="com.tencent.xin.emoticon.person.stiker_147658562614823b21d8caa375" androidmd5="bba4ca645708c8d34d1ab8ba8286e480" androidlen="8084" s60v3md5="bba4ca645708c8d34d1ab8ba8286e480" s60v3len="8084" s60v5md5="bba4ca645708c8d34d1ab8ba8286e480" s60v5len="8084" cdnurl="http://mmbiz.qpic.cn/mmemoticon/ajNVdqHZLLCSGzU8cqeRmIuibm1QGAVaKsTIIdqGEKut0hJyTlEGHBRltyE051bqo/0" designerid="" thumburl="http://mmbiz.qpic.cn/mmemoticon/ajNVdqHZLLCSGzU8cqeRmGtYpN9iawqPhCLTM2r392TKPgjvW9n7pOHxLSSegEWA0/0" encrypturl="http://emoji.qpic.cn/wx_emoji/RoOB2Q4hDfcDHVop1pibeUc7ZW8hvAhd49SDicHhBpqxIczHIp7Q8Ebg/" aeskey="06693ba329095f074904fe767b270353" width="240" height="240"></emoji><gameext type="0" content="0"></gameext></msg>
+大概还有多久[呲牙]
+7点之前吧
+好的
+你们吃点晚饭
+😂
+过年吃饭 不由人
+你们没吃
+我吃了
+嗯呢
+已存
+<msg><emoji md5="04d36317e315406b38b70fe9e87f0767" type="2" len = "32887" productid="com.tencent.xin.emoticon.person.stiker_14708306160e58af3de0c153cf" rewardtips="1" width="240" height="240"></emoji><gameext type="0" content="0" ></gameext></msg>
